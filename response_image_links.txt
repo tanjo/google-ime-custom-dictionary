@@ -1,68 +1,156 @@
-まがお	真顔 http://livedoor.blogimg.jp/hisabisaniwarota/imgs/5/9/59e54978.jpg	名詞	猫
-れす	真顔 http://livedoor.blogimg.jp/hisabisaniwarota/imgs/5/9/59e54978.jpg	名詞	猫
-ありがとう	ありがとう… http://image.blog.livedoor.jp/strikefreedom1974/imgs/c/8/c86b025f.jpg	名詞	ゴルゴ
-れす	ありがとう… http://image.blog.livedoor.jp/strikefreedom1974/imgs/c/8/c86b025f.jpg	名詞	ゴルゴ
-そんなきぶんじゃないです	......僕はそんな気分じゃないです http://image.blog.livedoor.jp/strikefreedom1974/imgs/4/2/424267fc.jpg	名詞	シンジ
-れす	......僕はそんな気分じゃないです http://image.blog.livedoor.jp/strikefreedom1974/imgs/4/2/424267fc.jpg	名詞	シンジ
-あとでいまなんだかだるい	後で 今なんだかだるい http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/d/9d5be934.jpg	名詞	ドラえもん
-れす	後で 今なんだかだるい http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/d/9d5be934.jpg	名詞	ドラえもん
-ことわる	ことわる http://image.blog.livedoor.jp/strikefreedom1974/imgs/c/f/cf15909d.jpg	名詞	
-れす	ことわる http://image.blog.livedoor.jp/strikefreedom1974/imgs/c/f/cf15909d.jpg	名詞	
-ゆるさない	許さない http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/a/9a1178c6.jpg	名詞	
-れす	許さない http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/a/9a1178c6.jpg	名詞	
-きさまのもくてきはなんだ	貴様の目的は何だ http://image.blog.livedoor.jp/strikefreedom1974/imgs/e/b/eb175c7e.jpg	名詞	
-れす	貴様の目的は何だ http://image.blog.livedoor.jp/strikefreedom1974/imgs/e/b/eb175c7e.jpg	名詞	
-われわれのぎょうかいではごほうびです	我々の業界ではご褒美です！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/f/9/f94e8f5a.jpg	名詞	
-れす	我々の業界ではご褒美です！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/f/9/f94e8f5a.jpg	名詞	
-ぬかしおる	ぬかしおる http://image.blog.livedoor.jp/strikefreedom1974/imgs/6/3/6351c526.jpg	名詞	日常
-れす	ぬかしおる http://image.blog.livedoor.jp/strikefreedom1974/imgs/6/3/6351c526.jpg	名詞	日常
-だからそれはおまえがばかやろうだからでしょう	だからそれは おまえがバカ野郎だからでしょう http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/8/384571bf.jpg	名詞	
-れす	だからそれは おまえがバカ野郎だからでしょう http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/8/384571bf.jpg	名詞	
-おれはもうついていけねぇ	おれはもうついていけねぇ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/7/a7738508.jpg	名詞	
-れす	おれはもうついていけねぇ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/7/a7738508.jpg	名詞	
-そらがあおいな	空が...青いな http://image.blog.livedoor.jp/strikefreedom1974/imgs/8/e/8ef6f96d.jpg	名詞	
-れす	空が...青いな http://image.blog.livedoor.jp/strikefreedom1974/imgs/8/e/8ef6f96d.jpg	名詞	
-たとえべんじょにかくれていてもいきのねをとめてやる	たとえ便所に隠れていても息の根を止めてやる http://image.blog.livedoor.jp/strikefreedom1974/imgs/d/d/ddd025ad.jpg	名詞	
-れす	たとえ便所に隠れていても息の根を止めてやる http://image.blog.livedoor.jp/strikefreedom1974/imgs/d/d/ddd025ad.jpg	名詞	
-やだこのこなんてこというの	やだこの子なんてこと言うの？ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/4/a4fc83e7.jpg	名詞	
-れす	やだこの子なんてこと言うの？ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/4/a4fc83e7.jpg	名詞	
-なぜだろういまおれのむねにあついものがこみあげている	なぜだろう.... いま....おれのむねにあついものがこみあげている.... http://image.blog.livedoor.jp/strikefreedom1974/imgs/7/4/74a3699b.jpg	名詞	
-れす	なぜだろう.... いま....おれのむねにあついものがこみあげている.... http://image.blog.livedoor.jp/strikefreedom1974/imgs/7/4/74a3699b.jpg	名詞	
-そんなふうにかんがえていたじきがおれにもありました	そんなふうに考えていた時期が 俺にもありました http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/d/bd7783e1.jpg	名詞	
-れす	そんなふうに考えていた時期が 俺にもありました http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/d/bd7783e1.jpg	名詞	
-おれにだってなんとかできないことぐらいある	俺にだって... なんとか出来ないことぐらい、ある... http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/f/3f5aba41.jpg	名詞	
-れす	俺にだって... なんとか出来ないことぐらい、ある... http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/f/3f5aba41.jpg	名詞	
-けっこうむずかしいことをかんたんにいいますね	...............結構 難しい事を簡単に言いますね... http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/8/980fc303.jpg	名詞	
+れす	..... まさに絶句 http://livedoor.blogimg.jp/news4wide/imgs/3/d/3d04a903.jpg	名詞	
 れす	...............結構 難しい事を簡単に言いますね... http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/8/980fc303.jpg	名詞	
-はぁだれにめいれいしてんのよ	はぁ！？誰に命令してんのよ！？ http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/0/9089872f.jpg	名詞	
-れす	はぁ！？誰に命令してんのよ！？ http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/0/9089872f.jpg	名詞	
-やればわかるやらなければいっしょうわからん	やれば分かる！！やらなければ、一生わからん！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/7/a/7a68d1d6.jpg	名詞	
-れす	やれば分かる！！やらなければ、一生わからん！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/7/a/7a68d1d6.jpg	名詞	
-もうそうとげんじつのくべつくらいつけようねいもうととしてはずかしいから	妄想と現実の区別くらいつけようね 妹として恥ずかしいから http://image.blog.livedoor.jp/strikefreedom1974/imgs/5/d/5da07b2d.jpg	名詞	
-れす	妄想と現実の区別くらいつけようね 妹として恥ずかしいから http://image.blog.livedoor.jp/strikefreedom1974/imgs/5/d/5da07b2d.jpg	名詞	
-おれのせんもんがいだ	オレの専門外だ！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/f/7/f73d4fa5.jpg	名詞	
-れす	オレの専門外だ！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/f/7/f73d4fa5.jpg	名詞	
-わろすっつってんだろ	ワロスっつってんだろ！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/e/b/eb43a673.jpg	名詞	
-れす	ワロスっつってんだろ！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/e/b/eb43a673.jpg	名詞	
-もうよいそれいじょういうでない	もうよいそれ以上言うでない http://image.blog.livedoor.jp/strikefreedom1974/imgs/0/6/06c7d108.jpg	名詞	
-れす	もうよいそれ以上言うでない http://image.blog.livedoor.jp/strikefreedom1974/imgs/0/6/06c7d108.jpg	名詞	
-てんしょんあがってきた	テンション上がってきた http://image.blog.livedoor.jp/strikefreedom1974/imgs/5/2/52ea4680.jpg	名詞	ちゅるやさん
-れす	テンション上がってきた http://image.blog.livedoor.jp/strikefreedom1974/imgs/5/2/52ea4680.jpg	名詞	ちゅるやさん
-やなこった	やなこった！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/d/a/daadd7a4.jpg	名詞	
-れす	やなこった！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/d/a/daadd7a4.jpg	名詞	
-ありがとうございました	ありがとうございました http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
+れす	......僕はそんな気分じゃないです http://image.blog.livedoor.jp/strikefreedom1974/imgs/4/2/424267fc.jpg	名詞	シンジ
+れす	...はあ いやあ、笑ったよ...うん お前、ギャグのセンスあるよ http://livedoor.4.blogimg.jp/chihhylove/imgs/f/c/fc324a02.jpg	名詞	
+れす	...へぇ、そうなんだ。ごめん───正直興味ないから、全然知らなかったよ。 http://livedoor.blogimg.jp/news4wide/imgs/e/d/ed645c12.jpg?310307	名詞	
+れす	...わかった この話はやめよ？ ハイちゅんちゅん http://livedoor.4.blogimg.jp/chihhylove/imgs/2/a/2a67cd26.jpg	名詞	ことりたそ
+れす	「できるかな？」じゃねぇよやるんだよ http://livedoor.4.blogimg.jp/chihhylove/imgs/4/b/4b8f7114.jpg	名詞	
+れす	『は！喜んで！』 http://livedoor.4.blogimg.jp/chihhylove/imgs/6/5/6552c6fa.jpg	名詞	
+れす	あ！？何だって聞こえない！怪我のせいで耳が遠くて http://livedoor.4.blogimg.jp/chihhylove/imgs/0/c/0cfe8cf0.jpg	名詞	
+れす	あたしはっ......本気だった...ん...... http://livedoor.blogimg.jp/news4wide/imgs/d/9/d957c2f9.jpg	名詞	
+れす	ありがとう… http://image.blog.livedoor.jp/strikefreedom1974/imgs/c/8/c86b025f.jpg	名詞	ゴルゴ
 れす	ありがとうございました http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
-もうしわけございません	申し訳ございません http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
-れす	申し訳ございません http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
-おねがいします	お願いします http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
-れす	お願いします http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
-おまえはなにをいっているんだ	おまえは何を言っているんだ http://image.blog.livedoor.jp/strikefreedom1974/imgs/6/c/6c441c52.jpg	名詞	外人
+れす	ありがとうございました http://livedoor.blogimg.jp/news4wide/imgs/f/6/f678daf3.jpg	名詞	ドアラ
+れす	いいじゃないか http://livedoor.4.blogimg.jp/chihhylove/imgs/5/1/519aae05.jpg	名詞	
+れす	いちいち癇にさわるヤロ──だ！！！！！ http://livedoor.4.blogimg.jp/chihhylove/imgs/f/7/f7096c1b.jpg	名詞	
+れす	いちからか？いちからせつめいしないとだめか？ http://livedoor.4.blogimg.jp/chihhylove/imgs/4/7/47b054dd.jpg	名詞	
+れす	いやあ たぶんそんなことはねえとおもうぞ http://livedoor.blogimg.jp/news4wide/imgs/d/8/d8ad703a.jpg	名詞	
+れす	いやでござる http://livedoor.blogimg.jp/news4wide/imgs/9/9/9910092a.jpg?200397	名詞	
+れす	イヤミか貴様ッッ http://livedoor.4.blogimg.jp/chihhylove/imgs/9/9/99e74fba.jpg	名詞	
+れす	うまいもんはカロリーが高いんだよ http://livedoor.4.blogimg.jp/chihhylove/imgs/4/6/4673cfd2.jpg	名詞	
+れす	ウマくはないぞ http://livedoor.4.blogimg.jp/chihhylove/imgs/7/6/76b326e4.jpg	名詞	
+れす	え？何？聞こえない http://livedoor.4.blogimg.jp/chihhylove/imgs/1/d/1d5e7d64.jpg	名詞	ぱにぽに
 れす	おまえは何を言っているんだ http://image.blog.livedoor.jp/strikefreedom1974/imgs/6/c/6c441c52.jpg	名詞	外人
-ちょうしにのるな	調子に乗るな http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/5/b5e37db9.jpg	名詞	
-れす	調子に乗るな http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/5/b5e37db9.jpg	名詞	
-そのとおり	その通り........！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/0/9/099e7617.jpg	名詞	
+れす	オレの専門外だ！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/f/7/f73d4fa5.jpg	名詞	
+れす	おれはもうついていけねぇ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/7/a7738508.jpg	名詞	
+れす	お願いします http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
+れす	お願いします http://livedoor.blogimg.jp/news4wide/imgs/f/6/f678daf3.jpg	名詞	ドアラ
+れす	お気づきになりましたか http://livedoor.4.blogimg.jp/chihhylove/imgs/6/e/6e46f715.jpg	名詞	
+れす	お前がそう思うんならそうなんだろう お前ん中ではな http://livedoor.blogimg.jp/news4wide/imgs/0/a/0abbfce8.jpg	名詞	
+れす	お断りだあああ http://livedoor.blogimg.jp/news4wide/imgs/f/d/fd50e01f.jpg	名詞	
+れす	かかったなアホが！ http://livedoor.blogimg.jp/news4wide/imgs/d/e/de037957.jpg	名詞	
+れす	かかったなアホが！！ http://livedoor.blogimg.jp/news4wide/imgs/7/4/74b683fe.jpg	名詞	らきすた
+れす	きえろ ぶっとばされんうちにな http://livedoor.blogimg.jp/news4wide/imgs/6/0/603746d9.jpg?350258	名詞	
+れす	くそっ やられた http://livedoor.4.blogimg.jp/chihhylove/imgs/f/7/f7946d4c.jpg	名詞	
+れす	ここはスルーで http://livedoor.blogimg.jp/news4wide/imgs/d/b/db8c5f70.jpg?392351	名詞	
+れす	ことわる http://image.blog.livedoor.jp/strikefreedom1974/imgs/c/f/cf15909d.jpg	名詞	
+れす	こやつ正気か？ http://livedoor.4.blogimg.jp/chihhylove/imgs/7/1/7180d578.jpg	名詞	
+れす	こりゃ手がつけられないや......。 http://livedoor.blogimg.jp/news4wide/imgs/a/e/aeeff7b1.jpg?170223	名詞	
+れす	じゃがいもだ...。食べな。 http://livedoor.blogimg.jp/news4wide/imgs/4/a/4abd62aa.jpg?225371	名詞	
+れす	しらん http://livedoor.blogimg.jp/news4wide/imgs/6/7/67a6b918.jpg?206190	名詞	
+れす	そうだな！！ http://livedoor.4.blogimg.jp/chihhylove/imgs/f/0/f037f157.jpg	名詞	
+れす	そう言って彼女は微笑んだ http://livedoor.blogimg.jp/news4wide/imgs/5/c/5c661752.jpg?129188	名詞	
 れす	その通り........！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/0/9/099e7617.jpg	名詞	
-かんしゃあっとうてきかんしゃ	感謝っ....！圧倒的感謝っ....！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/b/ab3bd7ea.jpg	名詞	
-れす	感謝っ....！圧倒的感謝っ....！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/b/ab3bd7ea.jpg	名詞	
-よせやい	よ、よせやいっ http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/7/b76e6588.jpg	名詞	鶴屋さん
+れす	それはね...妖精のしわざよ！ http://livedoor.blogimg.jp/news4wide/imgs/1/d/1db46501.jpg?261247	名詞	
+れす	それはねーよ... http://livedoor.blogimg.jp/news4wide/imgs/0/f/0f526c9e.jpg?259267	名詞	コナン
+れす	それはひょっとしてギャグで言ってるのか！？ http://livedoor.blogimg.jp/news4wide/imgs/e/f/ef2ab2a8.jpg?290259	名詞	
+れす	そんなこといわれたのはじめてだ http://livedoor.4.blogimg.jp/chihhylove/imgs/0/1/0165689c.jpg	名詞	
+れす	そんなことはわかっている...... とうの昔にな わかってはいるが... わかるわけにはいかんのだっ http://livedoor.blogimg.jp/news4wide/imgs/f/7/f75a3ad0.jpg?350513	名詞	
+れす	そんなふうに考えていた時期が 俺にもありました http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/d/bd7783e1.jpg	名詞	
+れす	そんなもの ウチにはないよ... http://livedoor.4.blogimg.jp/chihhylove/imgs/d/1/d106a633.jpg	名詞	
+れす	だからそれは おまえがバカ野郎だからでしょう http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/8/384571bf.jpg	名詞	
+れす	たとえ便所に隠れていても息の根を止めてやる http://image.blog.livedoor.jp/strikefreedom1974/imgs/d/d/ddd025ad.jpg	名詞	
+れす	だめっぽいなこりゃ だめっぽいっすね...... http://livedoor.blogimg.jp/news4wide/imgs/4/e/4e3d6e5a.jpg	名詞	
+れす	つづけろ！と言っているのだ！ http://livedoor.4.blogimg.jp/chihhylove/imgs/8/8/8882864b.jpg	名詞	
+れす	つまらない http://livedoor.blogimg.jp/news4wide/imgs/a/a/aa3a2802.jpg	名詞	
+れす	テンション上がってきた http://image.blog.livedoor.jp/strikefreedom1974/imgs/5/2/52ea4680.jpg	名詞	ちゅるやさん
+れす	どうです... なんだかワクワクしてくるでしょう！？ http://livedoor.4.blogimg.jp/chihhylove/imgs/7/d/7dbdb370.jpg	名詞	
+れす	な 何か変な事言い出したこの子...！！ http://livedoor.blogimg.jp/news4wide/imgs/c/a/ca4b8a8c.jpg	名詞	
+れす	なぜ こんなことになってしまったんだ http://livedoor.blogimg.jp/news4wide/imgs/6/7/671e0d64.jpg?400427	名詞	
+れす	なぜオレはあんなムダな時間を...... http://livedoor.blogimg.jp/news4wide/imgs/6/5/658bbf0d.jpg?377377	名詞	
+れす	なぜだろう.... いま....おれのむねにあついものがこみあげている.... http://image.blog.livedoor.jp/strikefreedom1974/imgs/7/4/74a3699b.jpg	名詞	
+れす	なんだ、いつものパターンか。 http://livedoor.4.blogimg.jp/chihhylove/imgs/5/5/55261c58.jpg	名詞	
+れす	なんで！！なんでそう変な方向にばかり思い切りがいいのよ！！ http://livedoor.4.blogimg.jp/chihhylove/imgs/9/8/98ef8bef.jpg	名詞	
+れす	にゃんぱす http://imgbako.com/pic/mt/1387819518125.jpg	名詞	
+れす	にゃんぱすぱすーん http://melon100.sakura.ne.jp/wp-content/uploads/2013/10/6a7aef1cca7ef170ab683a210e0b66ff.jpg	名詞	
+れす	ぬかしおる http://image.blog.livedoor.jp/strikefreedom1974/imgs/6/3/6351c526.jpg	名詞	日常
+れす	ねーよ ねーに決まってるだろ http://livedoor.blogimg.jp/news4wide/imgs/0/8/08d2ddb9.jpg	名詞	
+れす	ネタバレなんてひどいでゲソ！！ http://livedoor.blogimg.jp/news4wide/imgs/2/8/2822167c.jpg	名詞	イカ娘
+れす	ば〜っかじゃねえの！？ http://livedoor.blogimg.jp/news4wide/imgs/c/6/c6d70b89.jpg?362443	名詞	
+れす	はぁ！？誰に命令してんのよ！？ http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/0/9089872f.jpg	名詞	
+れす	はい この話はこれで終わり http://livedoor.blogimg.jp/news4wide/imgs/5/f/5f584b19.jpg	名詞	
+れす	ハイそこ！！違う！！ http://livedoor.blogimg.jp/news4wide/imgs/0/1/0163f182.jpg	名詞	
+れす	バカにしないでくれる！？知ってるわよそのくらい http://livedoor.blogimg.jp/news4wide/imgs/1/b/1bfcf669.jpg	名詞	
+れす	バカ野郎 http://livedoor.4.blogimg.jp/nizigami/imgs/e/e/ee082df0.jpg	名詞	千秋 <セリフ無し>
+れす	バカ野郎 http://pic.prepics-cdn.com/999999/1722200.jpeg	名詞	千秋
+れす	ま...... どうでもいいことだろう http://livedoor.blogimg.jp/news4wide/imgs/4/d/4d163863.jpg?312309	名詞	
+れす	まあまあそういわずに http://livedoor.blogimg.jp/news4wide/imgs/d/8/d82c4792.jpg?245262	名詞	
+れす	また、明日！ http://livedoor.blogimg.jp/news4wide/imgs/5/1/51b023c5.jpg?180406	名詞	
+れす	まだあわてるような時間じゃない http://livedoor.blogimg.jp/news4wide/imgs/1/5/15e0b96e.jpg	名詞	
+れす	またまたご冗談を http://livedoor.blogimg.jp/news4wide/imgs/9/1/918dfd30.jpg	名詞	
+れす	み...みんなすまねぇ...！！こ...こ...こんなはずじゃなかった... http://livedoor.blogimg.jp/news4wide/imgs/0/f/0f85a60f.jpg?250238	名詞	
+れす	みなかったことにしよう。 http://livedoor.blogimg.jp/news4wide/imgs/0/e/0e8f7e23.jpg?192217	名詞	
+れす	みんな頭おかしい http://livedoor.blogimg.jp/news4wide/imgs/1/3/134508b7.jpg	名詞	
+れす	メガネキノコ http://livedoor.4.blogimg.jp/chihhylove/imgs/b/b/bb7a0517.jpg	名詞	
+れす	もうよいそれ以上言うでない http://image.blog.livedoor.jp/strikefreedom1974/imgs/0/6/06c7d108.jpg	名詞	
+れす	やだこの子なんてこと言うの？ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/4/a4fc83e7.jpg	名詞	
+れす	やなこった！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/d/a/daadd7a4.jpg	名詞	
+れす	やめてくださいよ！ http://livedoor.4.blogimg.jp/chihhylove/imgs/d/f/df057a98.jpg	名詞	
+れす	やるじゃない http://livedoor.4.blogimg.jp/chihhylove/imgs/7/0/70c36a09.jpg	名詞	
+れす	やれば分かる！！やらなければ、一生わからん！！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/7/a/7a68d1d6.jpg	名詞	
 れす	よ、よせやいっ http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/7/b76e6588.jpg	名詞	鶴屋さん
+れす	よっぽどのバカだ。フフッ http://livedoor.4.blogimg.jp/chihhylove/imgs/3/5/352930e4.jpg	名詞	
+れす	ロスでは日常茶飯事だぜ！ http://livedoor.4.blogimg.jp/chihhylove/imgs/6/a/6a81b700.jpg	名詞	
+れす	わかった、うるさい、だまれ、却下だ。 http://livedoor.4.blogimg.jp/chihhylove/imgs/0/3/03ba553c.jpg	名詞	
+れす	わからないの？ン！？ http://livedoor.blogimg.jp/news4wide/imgs/3/a/3a1ab357.jpg	名詞	
+れす	ワロスっつってんだろ！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/e/b/eb43a673.jpg	名詞	
+れす	ん〜！？なんのことかなフフフ... http://livedoor.4.blogimg.jp/chihhylove/imgs/8/5/8548905c.jpg	名詞	
+れす	嘘だッッ！！！ http://livedoor.blogimg.jp/news4wide/imgs/6/7/679638c2.jpg	名詞	
+れす	俺が？ え？ ええ？ http://livedoor.blogimg.jp/news4wide/imgs/0/7/07b24116.jpg?136279	名詞	
+れす	俺にだって... なんとか出来ないことぐらい、ある... http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/f/3f5aba41.jpg	名詞	
+れす	何が可笑しい！！ http://livedoor.4.blogimg.jp/chihhylove/imgs/c/5/c5655e41.jpg	名詞	
+れす	何が正しい情報かわからない！ http://livedoor.blogimg.jp/news4wide/imgs/d/7/d79760e8.jpg	名詞	
+れす	我々の業界ではご褒美です！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/f/9/f94e8f5a.jpg	名詞	
+れす	感謝っ....！圧倒的感謝っ....！ http://image.blog.livedoor.jp/strikefreedom1974/imgs/a/b/ab3bd7ea.jpg	名詞	
+れす	関係ない 行け http://livedoor.blogimg.jp/news4wide/imgs/9/b/9bcb39ef.jpg	名詞	
+れす	貴様の目的は何だ http://image.blog.livedoor.jp/strikefreedom1974/imgs/e/b/eb175c7e.jpg	名詞	
+れす	許さない http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/a/9a1178c6.jpg	名詞	
+れす	空が...青いな http://image.blog.livedoor.jp/strikefreedom1974/imgs/8/e/8ef6f96d.jpg	名詞	
+れす	後で 今なんだかだるい http://image.blog.livedoor.jp/strikefreedom1974/imgs/9/d/9d5be934.jpg	名詞	ドラえもん
+れす	次でボケて！！ http://livedoor.blogimg.jp/news4wide/imgs/2/d/2ded7599.jpg	名詞	
+れす	邪悪そのものだわ！ http://livedoor.4.blogimg.jp/chihhylove/imgs/f/f/ff111814.jpg	名詞	
+れす	笑い http://livedoor.blogimg.jp/news4wide/imgs/3/1/31afc071-s.jpg?400299	名詞	あずまんが大王
+れす	笑わせんな http://livedoor.4.blogimg.jp/chihhylove/imgs/c/c/cc0f373b.jpg	名詞	
+れす	信じらんないこの男... 何？シラきッてんの？ http://livedoor.blogimg.jp/news4wide/imgs/0/8/08f75eaf.jpg?164280	名詞	
+れす	申し訳ございません http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
+れす	真顔 http://livedoor.blogimg.jp/hisabisaniwarota/imgs/5/9/59e54978.jpg	名詞	猫
+れす	人に何かを頼む時には大事な言葉が必要だろう 『お願いします（プリーズ）』が！？ http://livedoor.4.blogimg.jp/chihhylove/imgs/c/c/cc0f373b.jpg	名詞	
+れす	駄目だだこいつ.. 早く何とかしないと.. http://livedoor.blogimg.jp/news4wide/imgs/e/9/e9410307.jpg	名詞	
+れす	断る。 http://livedoor.blogimg.jp/news4wide/imgs/0/1/01672957.jpg	名詞	
+れす	調子に乗るな http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/5/b5e37db9.jpg	名詞	
+れす	釣りでした http://livedoor.blogimg.jp/news4wide/imgs/8/2/825dde23.jpg	名詞	
+れす	働け http://livedoor.4.blogimg.jp/chihhylove/imgs/e/2/e21fd8bb.jpg	名詞	
+れす	働けバカ http://livedoor.blogimg.jp/news4wide/imgs/2/1/21668686.jpg?327525	名詞	
+れす	突っ込みどころ満載だな http://livedoor.4.blogimg.jp/chihhylove/imgs/0/6/06ec044b.jpg	名詞	
+れす	必要な分は見せたということだ コレ以上は見せぬ http://livedoor.4.blogimg.jp/chihhylove/imgs/f/0/f058c111.jpg	名詞	
+れす	変態 http://livedoor.4.blogimg.jp/chihhylove/imgs/4/0/40c8fa72.jpg	名詞	
+れす	変態だー！ http://livedoor.4.blogimg.jp/chihhylove/imgs/1/0/107fbc67.gif	名詞	
+れす	面白い要素が１コもねえ！ http://livedoor.4.blogimg.jp/chihhylove/imgs/d/5/d501d42a.jpg	名詞	
+れす	妄想と現実の区別くらいつけようね 妹として恥ずかしいから http://image.blog.livedoor.jp/strikefreedom1974/imgs/5/d/5da07b2d.jpg	名詞	
+れす	問題ないつづけろ http://livedoor.4.blogimg.jp/chihhylove/imgs/4/8/48ca1f04.jpg	名詞	
+れす	話、聞いてますか http://livedoor.4.blogimg.jp/chihhylove/imgs/9/a/9af3d52b.jpg	名詞	
+れす	そんなものはない http://livedoor.blogimg.jp/news4wide/imgs/a/f/af5b8fe1.jpg?224180	名詞	
+れす	え？ギャグ？ http://livedoor.blogimg.jp/news4wide/imgs/e/6/e6356337.jpg?202243	名詞	
+れす	だめです http://livedoor.blogimg.jp/news4wide/imgs/9/9/9909d3ad.jpg	名詞	よつばと！
+れす	くうきよめ！！ http://livedoor.blogimg.jp/news4wide/imgs/9/8/98392a8c.jpg	名詞	
+れす	はー？なにさまですか？ http://livedoor.blogimg.jp/news4wide/imgs/6/f/6f36ffc6.jpg?260260	名詞	
+れす	え！？なんのこと！？ http://livedoor.blogimg.jp/news4wide/imgs/1/3/1393aec1.jpg?273244	名詞	
+れす	え〜〜〜〜〜 http://livedoor.blogimg.jp/news4wide/imgs/8/4/84722cf2.jpg?218218	名詞	
+れす	もういいだろ終わらせるぜ http://livedoor.blogimg.jp/news4wide/imgs/b/c/bc60c147.jpg?250170	名詞	
+れす	何だか知らんがとにかくよし！ http://livedoor.blogimg.jp/news4wide/imgs/b/8/b8fcce8a.jpg	名詞	
+れす	すまない http://livedoor.blogimg.jp/news4wide/imgs/d/8/d8464ceb.jpg?350262	名詞	
+れす	むだ http://livedoor.blogimg.jp/news4wide/imgs/4/f/4f440a5a.jpg?274200	名詞	
+れす	本当かなァ http://livedoor.blogimg.jp/news4wide/imgs/1/b/1b75d14b.jpg?285155	名詞	
+れす	削除 http://livedoor.blogimg.jp/news4wide/imgs/1/f/1f6b2f75-s.jpg?400204	名詞	
+れす	あ─── つっこむのめんどくせ── もう気づかないフリでいいか http://livedoor.blogimg.jp/news4wide/imgs/9/1/91113db4.jpg	名詞	
+れす	あはは そりゃないない！！ http://livedoor.blogimg.jp/news4wide/imgs/7/c/7cd067fd.jpg?159218	名詞	
+れす	構わ──ん！！オレが許す！！！ http://livedoor.blogimg.jp/news4wide/imgs/e/6/e6a8df54.jpg	名詞	
+れす	そんなに気にすることじゃないわよ http://livedoor.blogimg.jp/news4wide/imgs/e/b/eb5ba6f3.jpg?224485	名詞	
+れす	いい加減にしてくれ ここは保育所じゃないんだぞ http://livedoor.blogimg.jp/news4wide/imgs/f/3/f3e5dde7.jpg?384288	名詞	
+れす	おわり http://livedoor.blogimg.jp/news4wide/imgs/a/2/a26455b8.jpg	名詞	お（か）わり
+れす	おわり http://livedoor.blogimg.jp/news4wide/imgs/0/c/0cce7146.jpg?235300	名詞	尾張
+れす	おしまい http://livedoor.blogimg.jp/news4wide/imgs/5/c/5c1f0bfc.jpg	名詞	
+れす	完 http://livedoor.blogimg.jp/news4wide/imgs/2/7/279673f0.jpg?400300	名詞	
+れす	終 http://livedoor.blogimg.jp/news4wide/imgs/7/b/7bc6d41a.jpg	名詞	
+れす	終 http://livedoor.blogimg.jp/news4wide/imgs/2/d/2de84329.jpg	名詞	
+れす	おしまい http://livedoor.blogimg.jp/news4wide/imgs/8/f/8fb51219.jpg	名詞	
