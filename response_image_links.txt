@@ -154,3 +154,34 @@
 れす	終 http://livedoor.blogimg.jp/news4wide/imgs/7/b/7bc6d41a.jpg	名詞	
 れす	終 http://livedoor.blogimg.jp/news4wide/imgs/2/d/2de84329.jpg	名詞	
 れす	おしまい http://livedoor.blogimg.jp/news4wide/imgs/8/f/8fb51219.jpg	名詞	
+れす	だめだ https://farm4.staticflickr.com/3821/13697947473_715f83bb00_h.jpg	名詞	ベンチに座る人
+れす	お願いします http://i1.pixiv.net/img15/img/remonjam/13708012_m.jpg?1286360123	名詞	唯（けいおん！）
+れす	お願いします http://i1.pixiv.net/img05/img/black_bird_red_sheep/1020041_m.jpg?1214066503	名詞	正面土下座
+れす	お願いします http://d2dcan0armyq93.cloudfront.net/photo/odai/400/e1f710704125d121a41a10153291af9f_400.jpg	名詞	相撲
+れす	レビューありがとうございました http://image.rakuten.co.jp/bupure-store/cabinet/pauch/rev01.jpg	名詞	やばいサイトのレビュー感謝画像
+れす	ぷすすー http://art17.photozou.jp/pub/779/734779/photo/59707919_624.jpg	名詞	
+れす	ふわ～ん http://media.giphy.com/media/11syU6ZZ6PsGRO/giphy.gif	名詞	
+れす	v3 http://image.space.rakuten.co.jp/lg01/91/0000368091/18/img7588a1e2zik0zj.jpeg	名詞	
+れす	通った http://livedoor.blogimg.jp/mamesoku/imgs/0/6/068d82b3.gif	名詞	
+れす	拍手 http://livedoor.blogimg.jp/mamesoku/imgs/3/8/389f3b14.gif	名詞	
+れす	注ぐ http://livedoor.blogimg.jp/mamesoku/imgs/6/5/6513f265.gif	名詞	
+れす	注ぐ http://livedoor.blogimg.jp/mamesoku/imgs/2/4/24f3c208.gif	名詞	
+れす	通った http://livedoor.blogimg.jp/mamesoku/imgs/6/2/620ca593.gif	名詞	
+れす	ゴゴゴゴゴ http://livedoor.blogimg.jp/mamesoku/imgs/b/2/b2a9d31e.gif	名詞	
+れす	えっ何？ http://livedoor.blogimg.jp/mamesoku/imgs/0/2/024cfc22.gif	名詞	
+れす	怒った http://livedoor.blogimg.jp/mamesoku/imgs/1/9/19b73277.gif	名詞	
+れす	めっちゃ通る http://livedoor.blogimg.jp/mamesoku/imgs/9/e/9e75daa3.gif	名詞	
+れす	どろどろ http://livedoor.blogimg.jp/mamesoku/imgs/9/8/9894f276.gif	名詞	
+れす	ﾌｧｰﾝ http://livedoor.blogimg.jp/mamesoku/imgs/6/4/64f903f2.gif	名詞	
+れす	スマホいじる http://livedoor.blogimg.jp/mamesoku/imgs/4/8/4806a87b.gif	名詞	
+れす	マウスいじる http://livedoor.blogimg.jp/mamesoku/imgs/7/8/787997ba.gif	名詞	
+れす	なびく http://livedoor.blogimg.jp/mamesoku/imgs/9/3/93cfa8f1.gif	名詞	
+れす	こぼれる http://livedoor.blogimg.jp/mamesoku/imgs/f/4/f4d69014.gif	名詞	
+れす	コーヒー http://livedoor.blogimg.jp/mamesoku/imgs/6/5/656e6b30.gif	名詞	
+れす	雑 http://livedoor.blogimg.jp/mamesoku/imgs/8/5/85811acf.gif	名詞	
+れす	流れ作業 http://livedoor.blogimg.jp/mamesoku/imgs/f/5/f5997eca.gif	名詞	
+れす	しゅわしゅわ http://livedoor.blogimg.jp/mamesoku/imgs/f/0/f0ed0d29.gif	名詞	
+れす	動いた http://livedoor.blogimg.jp/mamesoku/imgs/4/b/4b34eed7.gif	名詞	
+れす	わーい http://livedoor.blogimg.jp/mamesoku/imgs/1/1/11530831.gif	名詞	
+れす	飛ぶ http://f.st-hatena.com/images/fotolife/p/pema/20130219/20130219022921.gif	名詞	ストパン
+れす	なんでやねんってね http://livedoor.4.blogimg.jp/hikaretanodesu/imgs/6/b/6b5a9a78.gif	名詞	みかしー
