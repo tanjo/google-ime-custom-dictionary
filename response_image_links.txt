@@ -218,3 +218,4 @@
 れす	おっかける http://www.zest-shop.com/shop/sagamihara/files/11340201.gif	名詞	日常
 れす	くしゃみ http://blog-imgs-46.fc2.com/m/a/t/matometanews/fb4454e7.gif	名詞	日常
 れす	ふるえる http://f.st-hatena.com/images/fotolife/p/pema/20110708/20110708194922.gif	名詞	日常
+れす	大人ってなに？ http://blog-imgs-15.fc2.com/a/n/d/andreagritti/otonattenani.jpg	名詞	
