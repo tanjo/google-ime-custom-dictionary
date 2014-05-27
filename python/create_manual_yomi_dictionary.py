@@ -63,11 +63,17 @@ def main():
         sys.exit(1)
     
     # file 作成
-    _splited_filename = _filename.rsplit('.', 1)
+    _no_directory_filename = _filename.rsplit('/', 1)
+    _splited_filename = []
+    if (len(_no_directory_filename) > 1):
+        _splited_filename = _no_directory_filename[0].rsplit('.', 1)
+    else:
+        _splited_filename = _filename.rsplit('.', 1)
+
     if (len(_splited_filename) == 2):
         _save_filename = 'augmented_yomi/' + _splited_filename[0] + '_yomi_' + _yomi + '.' + _splited_filename[1]
     else:
-        _save_filename = 'augmented_yomi/' + _filename + '_yomi_' + _yomi + '.txt'
+        _save_filename = 'augmented_yomi/' + _splited_filename[0] + '_yomi_' + _yomi + '.txt'
 
     # 書き込み
     _file = open(_save_filename, 'w')
