@@ -12,6 +12,7 @@ __author__ = "tanjo"
 __version__ = "0.0.1"
 __date__ = "2014-05-16"
 
+import re
 import sys
 
 class WordInfo(object):
