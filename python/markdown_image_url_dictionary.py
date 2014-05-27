@@ -62,10 +62,10 @@ def main():
         sys.exit(1)
         
     # file 作成
-    _no_directory_filename = _filename.rsplit('/', 1)
+    _no_directory_filename = re.sub('/', '_', _filename)
     _splited_filename = []
     if (len(_no_directory_filename) > 1):
-      _splited_filename = _no_directory_filename[0].rsplit('.', 1)
+      _splited_filename = _no_directory_filename.rsplit('.', 1)
     else:
       _splited_filename = _filename.rsplit('.', 1)
 
