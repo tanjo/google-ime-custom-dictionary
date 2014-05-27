@@ -115,7 +115,7 @@
 れす	申し訳ございません http://image.blog.livedoor.jp/strikefreedom1974/imgs/3/5/3551e6e3.jpg	名詞	土下座
 れす	真顔 http://livedoor.blogimg.jp/hisabisaniwarota/imgs/5/9/59e54978.jpg	名詞	猫
 れす	人に何かを頼む時には大事な言葉が必要だろう 『お願いします（プリーズ）』が！？ http://livedoor.4.blogimg.jp/chihhylove/imgs/c/c/cc0f373b.jpg	名詞	
-れす	駄目だだこいつ.. 早く何とかしないと.. http://livedoor.blogimg.jp/news4wide/imgs/e/9/e9410307.jpg	名詞	
+れす	駄目だこいつ.. 早く何とかしないと.. http://livedoor.blogimg.jp/news4wide/imgs/e/9/e9410307.jpg	名詞	
 れす	断る。 http://livedoor.blogimg.jp/news4wide/imgs/0/1/01672957.jpg	名詞	
 れす	調子に乗るな http://image.blog.livedoor.jp/strikefreedom1974/imgs/b/5/b5e37db9.jpg	名詞	
 れす	釣りでした http://livedoor.blogimg.jp/news4wide/imgs/8/2/825dde23.jpg	名詞	
@@ -233,3 +233,7 @@
 れす	トランプ2 http://blog-imgs-63-origin.fc2.com/s/i/m/simplelife746/20140509015904f8f.gif	名詞	ラブライブ 海未
 れす	室内演習 http://f.st-hatena.com/images/fotolife/p/pema/20130128/20130128052610.gif	名詞	ラブライブ 海未
 れす	鋭い目つき http://myulove.com/wp-content/uploads/2014/05/wpid-EJFnim1.gif	名詞	ラブライブ 海未
+れす	ごはんのうた http://blogimg.goo.ne.jp/user_image/21/a5/de590658d950f5d8a408d9f503187800.jpg	名詞	そらのおとしもの
+れす	ガタッ http://i.gyazo.com/19e5906fabe7fb2fee781428b07b01ca.png	名詞	ガタッさん
+れす	クソ... http://i.gyazo.com/6292061df5b1d1938f13d69f6098401c.png	名詞	ガタッさん
+れす	うるさいっ！そこ！！ #saki http://twitpic.com/dv0ml7 	名詞	咲 -saki-
