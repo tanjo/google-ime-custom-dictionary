@@ -1,0 +1,6 @@
+りそーす	Resource	名詞	
+りそーす	resource	名詞	
+こんとろーらー	Controller	名詞	
+こんとろーらー	controller	名詞	
+するー	through	名詞	
+するー	Through	名詞	

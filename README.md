@@ -5,17 +5,20 @@ Google Japanese Input Custom Dictionary
 
 
 #Index
-- steve.txt 
+- steve.txt
     - スティーブ画像レス
-- steve_yomi_steve.txt 
+- steve_yomi_steve.txt
     - スティーブ画像レス（よみ：すてぃーぶ）
-- response_image_links.txt 
+- response_image_links.txt
     - 画像レス
-- set_phrases.txt 
+- set_phrases.txt
     - 定型文
-- kaomoji.txt 
+- kaomoji.txt
     - 顔文字
-- seiyu.txt 
+- seiyu.txt
     - 声優
-- unicode.txt 
+- unicode.txt
     - Unicode
+
+- inmu_kakko.txt
+    - [Reference](http://0-uji.tumblr.com/post/10441560605)
